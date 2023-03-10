@@ -1,4 +1,3 @@
-# iftile
-Wear OS tile for intermittent fasting. It shows whether you're in eating or fasting period.
+# App and Tile
+Wear OS tile that calls and app.  As simple as I could make it.
 
-![screenshot](./screenshot.png)
